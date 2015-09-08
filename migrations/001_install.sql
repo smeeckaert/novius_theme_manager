@@ -1,0 +1,1 @@
+ALTER TABLE `nos_user` ADD `user__theme` VARCHAR(255) DEFAULT NULL;
